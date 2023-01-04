@@ -13,7 +13,7 @@ public class Starecase {
             {
                 if(j<row-i)
                 {
-                    System.out.print("x");
+                    System.out.print(" ");
                 }
                 else {
                     System.out.print("#");
